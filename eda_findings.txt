@@ -1,0 +1,7 @@
+• Performed Exploratory Data Analysis (EDA) to understand the dataset structure, data types, and overall distribution.
+• Used descriptive statistics and visualizations (histogram and boxplot) to analyze Exam_Score distribution.
+• Detected outliers using the Interquartile Range (IQR) method to identify extreme Exam_Score values.
+• Created an outlier flag column to clearly mark outlier and non-outlier records.
+• Removed outliers to reduce skewness and improve the reliability and quality of analysis.
+• Observed strong positive correlation between Exam_Score and features like Hours_Studied and Previous_Scores.
+• Understood that not all outliers should be removed, as some may represent valid real-world observations.
